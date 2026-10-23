@@ -2,3 +2,4 @@ byte0:ξεκινησα με ls, οπου βρηκα το directory i_wanna_be ,�
 byte1:μεσω της εντολης man ειδα τις οδηγιες του προγραμματος οπου βρηκα και το code
 byte2:μεσω της εντολης ls βρηκα το αρχειο shakespeare.txt στο οποιο ετρεξα την εντολη grep 'will find' shakespeare.txt και βρηκα το code
 byte3:μεσω της εντολης diff  βρηκα πως ο χρηστης αλλαξε την λεξη 'players σε 'programmers'
+byte4:μεσω της εντολης find -name "cup.txt" βρισκω το path το οποιο με οδηγει στην ευρεση του cup.txt ,στο οποιο κανω cat
