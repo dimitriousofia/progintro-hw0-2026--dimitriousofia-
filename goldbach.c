@@ -64,5 +64,5 @@ int main(void){//void διοτι δεν πρεπει να δεχεται καν�
 		}
 
 	}
-return 0;
+return 0; // κυρια πηγη που χρησιμοποιηθηκε για την αναπτυξη αυτου του κωδικα ειναι https://www.w3schools.com/c/index.php και ως προς την κατανοηση της εικασιας ειναι https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
 }
